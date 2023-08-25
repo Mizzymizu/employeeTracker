@@ -9,6 +9,11 @@ This a simple command-lnine application that helps you navigate through the empl
 3. Allows you to add departments and roles into the database.
 
 ## Info
-Here is the [GitHub Repository]()
+Here is the [GitHub Repository](https://github.com/Mizzymizu/employeeTracker)
+
+Here is the link to the [video sample](https://www.youtube.com/watch?v=sNukLjvHU6U)
 
 ## Deployment Samples
+![Selection](./deployment/Selection%20%20(Incomplete).png)
+
+![Feature](./deployment/viewDepts%20(incomplete).png)
